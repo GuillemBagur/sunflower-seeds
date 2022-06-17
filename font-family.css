@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'opendyslexic';
+	src: url('fonts/opendyslexic/OpenDyslexic-Regular.otf');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@import url(https://allfont.es/allfont.css?fonts=comic-sans-ms);
+@import url('http://fonts.cdnfonts.com/css/verdana');
+@import url('http://fonts.cdnfonts.com/css/playtimewithhottoddiesoblique-2');
+@import url('http://fonts.cdnfonts.com/css/calibri-light');
